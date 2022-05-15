@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Badge", 
+        "value": "Freedom"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "CrowdFunding 2018"
+      }
+    ], 
+    "description": "Freedom badge.", 
+    "external_url": "https://peepeth.com/a/crowdfunding", 
+    "image": "http://openmoji.org/data/color/svg/1F985.svg", 
+    "name": "Alexander III of Macedon badge"
+  }

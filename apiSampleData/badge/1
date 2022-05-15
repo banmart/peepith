@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Badge", 
+        "value": "Well Wisher"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "CrowdFunding 2018"
+      }
+    ], 
+    "description": "Well Wisher badge.", 
+    "external_url": "https://peepeth.com/a/crowdfunding", 
+    "image": "http://openmoji.org/data/color/svg/1F64F.svg", 
+    "name": "Well Wisher badge"
+  }

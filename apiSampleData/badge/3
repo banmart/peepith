@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Badge", 
+        "value": "Upholder"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "CrowdFunding 2018"
+      }
+    ], 
+    "description": "Upholder badge.", 
+    "external_url": "https://peepeth.com/a/crowdfunding", 
+    "image": "http://openmoji.org/data/color/svg/270A.svg", 
+    "name": "Upholder badge"
+  }

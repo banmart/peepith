@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Badge", 
+        "value": "Authenticity"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "CrowdFunding 2018"
+      }
+    ], 
+    "description": "Authenticity badge.", 
+    "external_url": "https://peepeth.com/a/crowdfunding", 
+    "image": "http://openmoji.org/data/color/svg/1F48E.svg", 
+    "name": "Authenticity badge"
+  }

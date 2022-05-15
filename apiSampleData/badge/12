@@ -1,0 +1,17 @@
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Badge", 
+        "value": "Gentoo Penguin"
+      },
+      {
+        "trait_type": "Era", 
+        "value": "CrowdFunding 2018"
+      }
+    ], 
+    "description": "Gentoo Penguin badge.", 
+    "external_url": "https://peepeth.com/a/crowdfunding", 
+    "image": "http://openmoji.org/data/color/svg/1F427.svg", 
+    "name": "Gentoo Penguin badge"
+  }
